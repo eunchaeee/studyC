@@ -1,7 +1,7 @@
 # 📘 혼자 공부하는 C 언어 – 예제 따라쓰기 저장소
 
 <p align="center">
-  <img src="https://www.hanbit.co.kr/data/books/B3006048708_l.jpg" alt="혼자 공부하는 C 언어 표지" width="300"/>
+  <img src="./assets/cover.png" alt="혼자 공부하는 C 언어 표지" width="300"/>
 </p>
 
 이 저장소는 **서현우 저 / 한빛미디어 – “혼자 공부하는 C 언어”** 책의 예제를 직접 따라 작성하며 정리한 공간입니다.  
@@ -18,7 +18,7 @@
 | [Chapter02](https://github.com/eunchaeee/studyC/tree/main/Chapter02) | 상수와 데이터 출력 |
 | [Chapter03](https://github.com/eunchaeee/studyC/tree/main/Chapter03) | 변수와 데이터 입력 |
 | [Chapter04](https://github.com/eunchaeee/studyC/tree/main/Chapter04) | 연산자 |
-| 
+
 
 ---
 
